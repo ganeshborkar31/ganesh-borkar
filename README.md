@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ganeshborkar31" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshborkar31?logo=twitter&style=for-the-badge" alt="ganeshborkar31" /></a> </p>
 <p align="left"> <a href="https://linkedin.com/in/ganeshborkar31" target="blank"><img src="https://img.shields.io/linkedin/follow/ganeshborkar31?logo=linkedin&style=for-the-badge" alt="ganeshborkar31" /></a> </p>
+<svg xmlns = "https://www.w3.org/2000/svg" viewBox= " 0 0 24 24" data-supported-dps="24*24"  fill="currentColer" class="mercado-match" width="24" heigth="24" focusable="false">
 
 - 🌱 I’m currently learning **Deep learning , Nural network, Artificial Intelligence**
 
