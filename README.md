@@ -11,8 +11,7 @@
 
 - 🌱 I’m currently learning **Deep learning , Nural network, Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://ganesh-borkar.github.io/portfolio/](https://ganesh-borkar.github.io/portfolio/)
-
+- 👨‍💻
 - 💬 Ask me about **Data Science, Machine Learning**
 
 - 📫 How to reach me **ganeshborkar107@gmail.com**
